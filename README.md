@@ -6,7 +6,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ## 🔗 Hosted link
 
-Chat App Hosted Link: [Chat App](https://documenter.getpostman.com/view/24632237/2sA2rDvKdT)
+Chat App Hosted Link: [Chat App](https://mern-chat-app-0rci.onrender.com/chats)
 
 ## Tech Stack
 
